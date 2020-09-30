@@ -9,7 +9,7 @@ You'll need to use a `Dockerfile` to build an image with your site in it. For ex
     ADD src/ /var/www
     CMD 'nginx'
 
-Then build and run it:
+Build It and Then Run It:
 
     $ docker build -t mysite .
     ...
