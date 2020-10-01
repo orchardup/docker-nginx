@@ -1,7 +1,11 @@
-docker-nginx
+Docker-Nginx
 ============
 
 A simple Nginx image for Docker to serve static websites. It will serve anything in the directory `/var/www`.
+
+# What is Docker?
+Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+
 
 You'll need to use a `Dockerfile` to build an image with your site in it. For example, if your site is in a directory called `src/`, you could create this `Dockerfile`:
 
