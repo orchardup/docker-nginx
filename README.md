@@ -1,5 +1,6 @@
 docker-nginx
 ============
+NGINX is a popular lightweight web application that is used for developing server-side applications. It is an open-source web server that is developed to run on a variety of operating systems. Since nginx is a popular web server for development, Docker has ensured that it has support for nginx.
 
 A simple Nginx image for Docker to serve static websites. It will serve anything in the directory `/var/www`.
 
