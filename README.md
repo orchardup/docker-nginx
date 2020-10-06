@@ -1,4 +1,4 @@
-docker-nginx
+docker-nginx (an amazing project)
 ============
 
 A simple Nginx image for Docker to serve static websites. It will serve anything in the directory `/var/www`.
