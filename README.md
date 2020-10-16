@@ -1,4 +1,4 @@
-docker-nginx
+DOC-NIGX
 ============
 
 A simple Nginx image for Docker to serve static websites. It will serve anything in the directory `/var/www`.
